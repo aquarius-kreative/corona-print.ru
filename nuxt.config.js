@@ -38,6 +38,19 @@ module.exports = {
     ]
   },
   modules: [
+    [
+      '@nuxtjs/yandex-metrika',
+      {
+        id: '41544964',
+        webvisor: true,
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+      }
+    ],
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-111409672-1'
+    }],
     '@nuxtjs/auth',
     '@nuxtjs/axios',
     '@nuxtjs/proxy'
