@@ -1,5 +1,5 @@
 <template>
-  <div class="pa0 hidden-lg-and-up">
+  <div class="pa0 pt-3 mb-5 hidden-lg-and-up">
     <v-navigation-drawer light fixed clipped enable-resize-watcher app v-model="drawer"
                          class="white">
       <v-list class="pa-1 mt-5" dense>

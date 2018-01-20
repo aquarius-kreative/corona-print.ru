@@ -12,7 +12,7 @@
     </v-layout>
     <v-container fluid grid-list-md text-xs-center>
       <v-layout row wrap justify-center>
-        <v-flex xs12 sm6 md3 lg2 v-for="(image, index) in items" :key="index">
+        <v-flex xs6 sm4 md3 lg2 v-for="(image, index) in items" :key="index">
           <portfolio-slider :image="image"/>
         </v-flex>
       </v-layout>
