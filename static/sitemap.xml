@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://corona-print.ru/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/feedback</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/portfolio</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/contacts</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/outdoor</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/user_agreement.pdf</loc>
+  <lastmod>2017-10-07T12:15:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/doc/card.pdf</loc>
+  <lastmod>2017-10-07T12:15:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/doc/okved.pdf</loc>
+  <lastmod>2017-10-07T12:15:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/print/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/suvenir/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/polygraphy/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/design/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/web/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://corona-print.ru/service/outdoor/</loc>
+  <lastmod>2017-12-20T14:20:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+</urlset>

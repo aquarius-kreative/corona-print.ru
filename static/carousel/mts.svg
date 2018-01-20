@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="131px" height="72px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 106705 58688"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil4 {fill:none}
+    .fil5 {fill:white;fill-rule:nonzero}
+    .fil1 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil0 {fill:url(#id2)}
+    .fil3 {fill:url(#id3)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="26088.2" y1="21097.2" x2="36948.6" y2="31961.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FF6053"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#920003"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="26675" y1="21638.7" x2="40967.3" y2="36033.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F4AAA1"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#E11B1C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A10C11"/>
+  </linearGradient>
+  <radialGradient id="id2" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.999999 -0 -0 0.549999 0 13205)" cx="53352.4" cy="29343.8" r="122357" fx="53352.4" fy="29343.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E73431"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D71C19"/>
+  </radialGradient>
+  <radialGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.57999 -0 -0 1.74125 -18592 -19660)" cx="32056.3" cy="26523.1" r="17074.8" fx="32056.3" fy="26523.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#CFCFCF"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#9F9F9F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A0A0A0"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </radialGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_965431728672">
+   <polygon class="fil0" points="0,58688 106705,58688 106705,0 0,0 "/>
+   <path class="fil1" d="M27108 21080l16811 0c575,0 1040,465 1040,1040l0 16812c0,574 -465,1040 -1040,1040l-16811 0c-575,0 -1041,-466 -1041,-1040l0 -16812c0,-575 466,-1040 1041,-1040z"/>
+   <path class="fil2" d="M27354 21670l16057 0c393,0 711,319 711,711l0 16057c0,393 -318,711 -711,711l-16057 0c-392,0 -711,-318 -711,-711l0 -16057c0,-392 319,-711 711,-711z"/>
+   <path class="fil3" d="M35373 22950c-2482,1 -5387,4449 -5349,8883 -10,2825 1448,5950 5349,6007 4063,-80 5377,-3190 5350,-6007 9,-4583 -2977,-8916 -5350,-8883z"/>
+   <path class="fil4" d="M35373 22950c-2482,1 -5387,4449 -5349,8883 -10,2825 1448,5950 5349,6007 4063,-80 5377,-3190 5350,-6007 9,-4583 -2977,-8916 -5350,-8883z"/>
+   <polygon class="fil5" points="49794,35214 50521,25949 52983,25949 55506,31137 57989,25949 60451,25949 61178,35214 58332,35214 57969,30592 56233,34507 54759,34487 52680,30592 52317,35214 "/>
+   <polygon class="fil5" points="65094,35214 65094,28089 62227,28089 62227,25949 70765,25949 70765,28089 67960,28089 67960,35214 "/>
+   <path class="fil5" d="M78597 26269c-581,-313 -1344,-320 -2140,-320 -2892,0 -4743,320 -4743,2316l0 4651c0,2328 1855,2297 4743,2298 739,18 1744,7 2140,-302l0 -1996c-449,242 -1056,264 -2140,264 -1155,0 -2139,-264 -2139,-1422l0 -2570c0,-923 895,-1262 2139,-1262 1016,0 1448,-33 2140,339l0 -1996z"/>
+  </g>
+ </g>
+</svg>

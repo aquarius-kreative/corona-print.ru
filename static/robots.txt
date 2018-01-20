@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /cgi-bin
+Host: http://corona-print.ru
+sitemap: http://corona-print.ru/sitemap.xml
