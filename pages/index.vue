@@ -14,6 +14,7 @@
         </div>
       </v-flex>
     </v-layout>
+    <div class="hidden-md-and-up" style="margin: 110px 0px"></div>
     <corona-feature/>
     <v-layout row wrap class="my-4">
       <v-flex xs12 class="pb-5 mb-3">
