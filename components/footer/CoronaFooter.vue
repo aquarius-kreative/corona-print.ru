@@ -8,11 +8,11 @@
       >
       </v-card-media>
     </v-card>
-    <v-card flat color="transparent">
+    <v-card flat color="mt-3 pa-0 transparent">
       <v-card-text class="white--text text-xs-center">
         {{getYear()}}
       </v-card-text>
-      <v-card-text class="white--text text-xs-center">
+      <v-card-text class="pa-0 mt-4 white--text text-xs-center">
         <!-- Yandex.Metrika informer -->
         <a href="https://metrika.yandex.ru/stat/?id=41544964&amp;from=informer"
            target="_blank" rel="nofollow"><img
@@ -40,7 +40,6 @@
 
 <style scoped>
   footer {
-    min-height: 150px;
     background: #0f2d41;
   }
 </style>
