@@ -50,7 +50,7 @@
                   <v-flex xs10 md11>
                     <small>
                       Нажимая на кнопку, вы даете согласие на обработку своих персональных данных.
-                      <a href="/policy" target="_blank">Узнать больше</a>
+                      <router-link to="/policy">Узнать больше</router-link>
                     </small>
                   </v-flex>
                 </v-layout>
