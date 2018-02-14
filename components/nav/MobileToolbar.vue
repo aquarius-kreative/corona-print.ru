@@ -78,7 +78,7 @@
 
 <style scoped>
   .mobiletoolbar {
-    z-index: 6;
+    z-index: 20;
   }
 
   a {
