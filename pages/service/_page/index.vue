@@ -71,7 +71,6 @@
       }
     },
     mounted () {
-      console.dir(this.service)
     }
   }
 </script>
