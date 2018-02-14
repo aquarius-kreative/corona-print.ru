@@ -57,7 +57,7 @@ module.exports = {
   ],
   proxy: [
     ['/api', {
-      target: process.env.NODE_ENV === 'production' ? 'http://srv.corona-print.ru' : 'http://localhost:8000',
+      target: process.env.NODE_ENV === 'production' ? 'https://srv.corona-print.ru' : 'http://localhost:8000',
       pathRewrite: {'^/api': 'api/v1'}
     }]
   ],
