@@ -10,7 +10,8 @@
     </v-card>
     <v-card flat color="mt-3 pa-0 transparent">
       <v-card-text class="white--text text-xs-center">
-        {{getYear()}}
+        {{getYear()}}<br>
+        <router-link to="/policy">Политика организации в отношении обработки персональных данных</router-link>
       </v-card-text>
       <v-card-text class="pa-0 mt-4 white--text text-xs-center">
         <!-- Yandex.Metrika informer -->
