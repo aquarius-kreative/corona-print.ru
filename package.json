@@ -21,7 +21,7 @@
     "gsap": "^1.20.3",
     "nuxt": "^1.3.0",
     "owl.carousel": "^2.2.0",
-    "vuetify": "^0.17.7",
+    "vuetify": "^1.0.0",
     "ymaps": "^0.1.1"
   },
   "devDependencies": {
