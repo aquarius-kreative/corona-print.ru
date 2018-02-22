@@ -1,6 +1,6 @@
 {
   "name": "corona-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "corona-print.ru site",
   "author": "aquarius-kreative",
   "private": true,
@@ -21,7 +21,7 @@
     "gsap": "^1.20.3",
     "nuxt": "^1.3.0",
     "owl.carousel": "^2.2.0",
-    "vuetify": "^1.0.0",
+    "vuetify": "^1.0.3",
     "ymaps": "^0.1.1"
   },
   "devDependencies": {

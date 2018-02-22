@@ -41,7 +41,7 @@
     color: #3E4651;
     cursor: pointer;
     letter-spacing: 0.5px;
-    z-index: 12;
+    z-index: 1;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -96,8 +96,6 @@
   a.cp-sbtn:hover:before {
     width: 100%;
     background: #4AB9F2;
-    -webkit-box-shadow: 0 10px 90px -2px rgba(0, 0, 0, 0.2);
-    box-shadow: 0 10px 90px -2px rgba(0, 0, 0, 0.2);
   }
 
   a.cp-sbtn.nuxt-link-active:after {
@@ -112,8 +110,6 @@
   a.cp-sbtn.nuxt-link-active:before {
     width: 100%;
     background: #4AB9F2;
-    -webkit-box-shadow: 0 10px 90px -2px rgba(0, 0, 0, 0.2);
-    box-shadow: 0 10px 90px -2px rgba(0, 0, 0, 0.2);
   }
 
 </style>

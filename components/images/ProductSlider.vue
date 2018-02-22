@@ -33,7 +33,6 @@
       }
     },
     mounted () {
-      console.dir(this.images)
     }
   }
 </script>
