@@ -1,7 +1,7 @@
 <template>
   <div class="pa-0 my-3 hidden-md-and-down">
     <v-layout row align-center class="cp-header-menu">
-      <v-flex md2 xs6>
+      <v-flex md1 xs6>
         <nuxt-link to="/">
           <v-card flat class="pa-3" style="background: #0b4e7a">
             <v-card-media src="/img/logo.svg" style="min-height: 80px" contain>
@@ -22,7 +22,7 @@
           </v-card-text>
         </v-card>
       </v-flex>
-      <v-flex md2 class="text-xs-right">
+      <v-flex md3 class="text-xs-right">
         <v-card flat color="transparent">
           <v-card-text>
             <ul class="cp-nav-menu">

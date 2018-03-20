@@ -5,7 +5,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    titleTemplate: '%s - КОРОНА PRINT',
+    titleTemplate: 'КОРОНА PRINT | ТЕМРЮК | %s',
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
@@ -15,7 +15,7 @@ module.exports = {
       {
         hid: 'description',
         name: 'description',
-        content: 'Рекламное агентство Корона PRINT - производство рекламы в Темрюке и Анапе. Печать баннеров, вывески, световые буквы, таблички, визитки, штендер, рекламная плоскость, разработка сайтов.'
+        content: 'Рекламное агентство Корона PRINT - производство рекламы Темрюк и Анапа. Печать баннеров, вывески, световые буквы, таблички, визитки, штендер, рекламная плоскость, разработка сайтов.'
       }
     ],
     link: [

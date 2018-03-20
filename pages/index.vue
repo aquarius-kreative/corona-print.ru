@@ -48,8 +48,17 @@
   import HomeCarousel from '~/components/carousel/HomeCarousel'
 
   export default {
-    head: {
-      title: 'Реклама, вывески, баннера, визитки в Темрюке',
+    head() {
+      return {
+        title: 'Реклама, вывески, баннера, визитки.',
+        meta: [
+          {
+            hid: 'description',
+            name: 'description',
+            content: 'Рекламное агентство Корона PRINT - производство рекламы Темрюк и Анапа. Печать баннеров, вывески, световые буквы, таблички, визитки, штендер, рекламная плоскость, разработка сайтов.'
+          }
+        ]
+      }
     },
     components: {
       CoronaFeature,
