@@ -35,8 +35,8 @@
     },
     asyncData ({app, error}) {
       return app.$axios.$get('/api/portfolios/')
-        .then(res => {
-          return {items: res.data.sort((a, b) => a.id < b.id)}
+        .then(data => {
+          return {items: data.sort((a, b) => a.id < b.id)}
         })
         .catch(err => error({statusCode: err.statusCode, message: 'Произошла ошибка'}))
     },
