@@ -34,7 +34,7 @@
       return {}
     },
     asyncData ({app, error}) {
-      return app.$axios.get('/portfolios/')
+      return app.$axios.$get('/api/portfolios/')
         .then(res => {
           return {items: res.data.sort((a, b) => a.id < b.id)}
         })

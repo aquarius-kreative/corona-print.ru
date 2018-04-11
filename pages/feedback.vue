@@ -129,7 +129,7 @@
           data.append('phone', this.userForm.phone)
           data.append('email', this.userForm.email)
           data.append('message', this.userForm.message)
-          this.$axios.post(`/feedback/`, data)
+          this.$axios.$post(`/api/feedback/`, data)
             .then(res => {
               this.text = 'Сообщение отправлено!'
               this.color = 'success'

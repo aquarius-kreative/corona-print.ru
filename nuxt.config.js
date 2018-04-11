@@ -52,9 +52,11 @@ module.exports = {
       id: 'UA-111409672-1'
     }],
     '@nuxtjs/auth',
-    '@nuxtjs/axios',
-    '@nuxtjs/proxy'
+    '@nuxtjs/axios'
   ],
+  axios: {
+    proxy: true // Can be also an object with default options
+  },
   proxy: [
     ['/api', {
       target: process.env.NODE_ENV === 'production' ? 'https://srv.corona-print.ru' : 'http://localhost:8000',

@@ -45,7 +45,7 @@
       }
     },
     async asyncData ({app, params}) {
-      let {data} = await app.$axios.get('/services/')
+      let {data} = await app.$axios.$get('/api/services/')
       let service = data.find(elm => elm.tile === params.page)
       return {'service': service}
     },
