@@ -55,7 +55,7 @@ module.exports = {
     '@nuxtjs/axios'
   ],
   axios: {
-    proxy: true // Can be also an object with default options
+    proxy: true
   },
   proxy: [
     ['/api', {
