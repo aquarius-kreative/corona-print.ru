@@ -16,7 +16,7 @@
           <v-icon>close</v-icon>
         </v-btn>
       </v-toolbar>
-      <v-carousel hide-delimiters :cycle="false" class="black">
+      <v-carousel hide-delimiters :cycle="false" class="black" style="height: 100vh">
         <v-carousel-item v-for="(content, index) in image.images" v-bind:src="content.file"
                          :key="index"></v-carousel-item>
       </v-carousel>
