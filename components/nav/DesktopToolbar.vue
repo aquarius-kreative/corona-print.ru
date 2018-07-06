@@ -26,6 +26,11 @@
         <v-card flat color="transparent">
           <v-card-text>
             <ul class="cp-nav-menu">
+              <!--<li class="cp-nav-menu-item">-->
+                <!--<nuxt-link to="/feedback" title="Онлайн-заявка">-->
+                  <!--<div class="cp-nav-menu-item-text">Аренда щитов</div>-->
+                <!--</nuxt-link>-->
+              <!--</li>-->
               <li class="cp-nav-menu-item">
                 <nuxt-link to="/feedback" title="Онлайн-заявка">
                   <div class="cp-nav-menu-item-text">Онлайн-заявка</div>

@@ -4,23 +4,30 @@
       <img src="/img/slides/slider1.jpg">
     </div>
     <corona-link/>
-    <v-layout class="my-4">
+    <v-layout class="my-5">
       <v-flex xs12 class="pb-5 mb-5">
         <div class="h1-divider">
           <div class="divtext">
-            <h1>Реклама, вывески, баннера, визитки в Темрюке - Корона Print</h1>
-            <span class="mb-5">Производство любых видов рекламы</span>
+            <h1>Реклама, вывески, баннера, визитки | ТЕМРЮК | КОРОНА PRINT</h1>
+            <v-card flat color="transparent" class="mb-5" height="300">
+              <v-card-text class="pa-4 subheading">
+                <p class="text-xs-center mb-5" style="color: #0091ce">Производство любых видов рекламы в Темрюке. <br>Любая
+                  <strong>Наружная реклама</strong> под заказ. Быстро,
+                  недорого. Гарантия 100%. <br>Лучшие цены. Стенды. Фасадные вывески. <strong>Объемные буквы</strong>
+                  всех видов. <strong>Световые короба.</strong> Свое производство. </p>
+              </v-card-text>
+            </v-card>
           </div>
         </div>
       </v-flex>
     </v-layout>
-    <div class="hidden-md-and-up" style="margin: 110px 0px"></div>
+    <div class="hidden-md-and-up" style="margin: 250px 0px"></div>
     <corona-feature/>
     <v-layout row wrap class="my-4">
       <v-flex xs12 class="pb-5 mb-3">
         <div class="h1-divider">
           <div class="divtext">
-            <h1>Наши клиенты</h1>
+            <h3>Наши клиенты</h3>
           </div>
         </div>
         <v-card flat color="transparent">
@@ -50,12 +57,12 @@
   export default {
     head() {
       return {
-        title: 'Реклама, вывески, баннера, визитки.',
+        title: 'Реклама, вывески, баннера, визитки',
         meta: [
           {
             hid: 'description',
             name: 'description',
-            content: 'Рекламное агентство Корона PRINT - производство рекламы Темрюк и Анапа. Печать баннеров, вывески, световые буквы, таблички, визитки, штендер, рекламная плоскость, разработка сайтов.'
+            content: 'Рекламное агентство Корона PRINT - производство наружной рекламы в Темрюке и Анапе. Печать баннеров Темрюк, вывески, световые буквы, таблички, визитки темрюк, штендер, рекламная плоскость, разработка сайтов.'
           }
         ]
       }
